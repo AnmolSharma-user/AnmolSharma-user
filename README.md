@@ -1,128 +1,94 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=6C5CE7&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Anmol+Sharma+%F0%9F%91%8B;Founder+%40+Sanataniai.in+%26+Signatureresize.in;Full+Stack+Developer+%7C+Idea-First+Builder;1M%2B+Monthly+Page+Views+Across+My+Products" alt="Typing SVG" />
+# Anmol Sharma
+
+**Founder & Full Stack Developer**
+
+Building products that scale — [Sanataniai.in](https://sanataniai.in) · [SignatureResize.in](https://signatureresize.in) · 1M+ combined monthly page views
+
+[![Website](https://img.shields.io/badge/sanataniai.in-000000?style=flat-square)](https://sanataniai.in)
+[![Website](https://img.shields.io/badge/signatureresize.in-000000?style=flat-square)](https://signatureresize.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/anmol-sharma-designer)
+[![Email](https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:anmolgautam577@gmail.com)
+
+</div>
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Sanataniai.in-6C5CE7?style=for-the-badge&logoColor=white)](https://sanataniai.in)
-[![Portfolio](https://img.shields.io/badge/✍️_SignatureResize.in-00B894?style=for-the-badge&logoColor=white)](https://signatureresize.in)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anmol-sharma-designer)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anmolgautam577@gmail.com)
+## About
 
-</div>
+I'm a full stack developer based in Sikkim, India, currently pursuing a BCA in AI at SMIT. I founded and operate two web products — **Sanataniai.in** and **SignatureResize.in** — that together generate over **1 million page views a month**. I'm also working as a Software Development Intern at **KMD Realty**, where I built [kmdrealty.in](https://kmdrealty.in) end to end.
 
----
+My approach to building software is deliberate: I spend most of my time on product thinking, architecture, and user experience, and use AI tooling to accelerate implementation. The idea, the direction, and the judgment calls are mine — the tooling just makes execution faster.
 
-### 🧠 About Me
+<br/>
 
-```txt
-const anmol = {
-    role: "Founder & Full Stack Developer",
-    based_in: "Sikkim, India",
-    education: "BCA (AI) @ SMIT",
-    currently: "Software Development Intern @ KMD Realty",
-    philosophy: "Think more, code less — let AI handle the code, I own the idea.",
-    focus: ["Product Thinking", "AI-assisted Development", "SaaS & Web Products"]
-};
-```
+## Product Portfolio
 
-- 🚀 **Founder** of [**Sanataniai.in**](https://sanataniai.in) & [**SignatureResize.in**](https://signatureresize.in) — together crossing **1M+ monthly page views**
-- 💼 Currently interning at **KMD Realty**, where I built [**kmdrealty.in**](https://kmdrealty.in) from the ground up
-- 🧩 I believe the real skill isn't typing code — it's **thinking clearly enough that AI can execute the idea correctly**
-- 🌱 Constantly experimenting with AI-driven dev workflows to ship faster without sacrificing quality
-- 📍 Sikkim, India
+<table>
+<tr>
+<td width="33%" valign="top">
 
----
+**Sanataniai.in**
+Founder & Developer
 
-### 📊 Product Impact
+Flagship product; primary driver of monthly traffic
 
-<div align="center">
+[sanataniai.in →](https://sanataniai.in)
 
-| Metric | Value |
-|---|---|
-| 🌐 Combined Monthly Page Views | **1,000,000+** |
-| 🏗️ Flagship Products | Sanataniai.in, SignatureResize.in |
-| 💼 Client Work | kmdrealty.in (KMD Realty) |
-| 🧑‍💻 Role | Founder & Full Stack Developer |
+</td>
+<td width="33%" valign="top">
 
-*Live traffic analytics aren't publicly embeddable without connecting an analytics account — happy to add a real-time dashboard badge (e.g. via a public Google Analytics/Plausible share link) if you'd like one wired in here.*
+**SignatureResize.in**
+Founder & Developer
 
-</div>
+Signature creation and resizing tool with strong organic reach
 
----
+[signatureresize.in →](https://signatureresize.in)
 
-### 🛠️ Top Projects
+</td>
+<td width="33%" valign="top">
 
-<div align="center">
+**KMD Realty**
+Software Development Intern
 
-<a href="https://sanataniai.in">
-<img src="https://img.shields.io/badge/Sanataniai.in-Founder-6C5CE7?style=flat-square&logo=vercel&logoColor=white"/>
-</a>
-<a href="https://signatureresize.in">
-<img src="https://img.shields.io/badge/SignatureResize.in-Founder-00B894?style=flat-square&logo=vercel&logoColor=white"/>
-</a>
-<a href="https://kmdrealty.in">
-<img src="https://img.shields.io/badge/KMDRealty.in-Developer-E17055?style=flat-square&logo=vercel&logoColor=white"/>
-</a>
+Designed and built kmdrealty.in
 
-</div>
+[kmdrealty.in →](https://kmdrealty.in)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## Additional Work
 
 | Project | Description | Link |
-|---|---|---|
-| 🕉️ **Sanataniai.in** | Founder & Builder — flagship product driving major share of my 1M+ monthly views | [Visit ↗](https://sanataniai.in) |
-| ✍️ **SignatureResize.in** | Founder & Builder — signature resizing/creation tool with strong organic traffic | [Visit ↗](https://signatureresize.in) |
-| 🏢 **KMDRealty.in** | Built end-to-end as a Software Development Intern at KMD Realty | [Visit ↗](https://kmdrealty.in) |
-| 🩸 **FemiTrack** | Free period tracker SaaS | [Visit ↗](https://femitrack.com) |
-| 🖋️ **SignatureResize (repo)** | Open-source signature resizer & creator | [GitHub ↗](https://github.com/AnmolSharma-user/SignatureResize) |
-| 📐 **GWA Calculator** | General Weighted Average calculator | [Visit ↗](https://mygwacalculator.com) |
-
----
-
-### 💻 Tech Stack
-
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_AI-6C5CE7?style=for-the-badge&logo=anthropic&logoColor=white)
-
-</div>
-
----
-
-### 📈 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AnmolSharma-user&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnmolSharma-user&layout=compact&theme=radical&hide_border=true"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnmolSharma-user&theme=radical&hide_border=true"/>
-
-<img src="https://komarev.com/ghpvc/?username=AnmolSharma-user&label=Profile+Views&color=6C5CE7&style=flat-square" alt="Profile Views"/>
-
-</div>
-
----
-
-### 📫 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anmol-sharma-designer)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anmolgautam577@gmail.com)
-[![Sanataniai](https://img.shields.io/badge/Sanataniai.in-6C5CE7?style=for-the-badge&logoColor=white)](https://sanataniai.in)
-[![SignatureResize](https://img.shields.io/badge/SignatureResize.in-00B894?style=for-the-badge&logoColor=white)](https://signatureresize.in)
+|:--|:--|:--|
+| FemiTrack | Period-tracking SaaS, free to use | [femitrack.com](https://femitrack.com) |
+| GWA Calculator | General weighted average calculator | [mygwacalculator.com](https://mygwacalculator.com) |
+| SignatureResize (OSS) | Open-source signature tool | [GitHub repo](https://github.com/AnmolSharma-user/SignatureResize) |
+| Sikkim Mountains | Tour and travel agency website | [sikkimmountains.com](https://sikkimmountains.com) |
 
 <br/>
 
-**"I let AI handle the code. The idea — that's mine."**
+## Stack
 
+`TypeScript` `JavaScript` `React` `Next.js` `Node.js` `Tailwind CSS` `Vercel`
+
+<br/>
+
+## GitHub Activity
+
+<div align="center">
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=AnmolSharma-user&show_icons=true&theme=default&hide_border=true&hide_title=true&text_color=333&icon_color=6C5CE7&title_color=333"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnmolSharma-user&layout=compact&theme=default&hide_border=true&text_color=333&title_color=333&langs_count=6"/>
 </div>
+
+<br/>
+
+## Contact
+
+**Email:** anmolgautam577@gmail.com
+**LinkedIn:** [linkedin.com/in/anmol-sharma-designer](https://linkedin.com/in/anmol-sharma-designer)
